@@ -1,5 +1,6 @@
 # Germany-grid-stability-simulator
 Can renewables handle peak demand? This project simulates Germany's grid at hourly resolution over 5 years, 50,295 hours of data analyzed. Hourly simulation grid under 50%, 80%, and 100% renewable scenarios. Finds that 1,400 GWh of storage is needed for 80% renewables 700x current capacity.
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0-red.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
