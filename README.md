@@ -38,7 +38,7 @@ Critics argue that renewable energy cannot provide reliable power. This project 
 ### 1. Residual Load Analysis (Sample Week)
 *Residual load = demand - (solar + wind) — must be met by conventional power or storage*
 
-![Residual Load Analysis](images/germany_residual_load_sample.png)
+![Residual Load Analysis](germany_residual_load_sample.png)
 
 ### 2. Scenario Comparison
 *Shortfall hours increase dramatically as renewables scale beyond 50%*
