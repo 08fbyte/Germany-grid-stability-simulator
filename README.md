@@ -5,6 +5,8 @@ Can renewables handle peak demand? This project simulates Germany's grid at hour
 [![Pandas](https://img.shields.io/badge/Pandas-2.0-red.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Dataset: https://data.open-power-system-data.org/time_series/2020-10-06/time_series_60min_singleindex.csv
+
 ## 📊 Project Overview
 
 Critics argue that renewable energy cannot provide reliable power. This project provides a **data-driven answer** by simulating the German electricity grid under different renewable penetration scenarios using **5+ years of hourly data** (50,295 hours).
