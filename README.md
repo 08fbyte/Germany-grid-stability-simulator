@@ -48,7 +48,7 @@ Critics argue that renewable energy cannot provide reliable power. This project 
 ![Scenario Comparison](scenario_comparison.png)
 
 ### 3. Dark Doldrum Period
-*The worst 7-day period with lowest renewable generation (typically winter)*
+*The unfavorable 7-day period with lowest renewable generation (typically winter)*
 
 ![Dark Doldrum Analysis](dark_doldrum_analysis.png)
 
